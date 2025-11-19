@@ -1,3 +1,4 @@
+Visit the website:- https://aahar-food-app-iazb.vercel.app/
 <img width="1905" height="916" alt="Screenshot 2025-08-02 005913" src="https://github.com/user-attachments/assets/ff847dbf-20bf-445f-9251-159fc5ccef4c" />
 Aahar aims to bridge the gap between food lovers and smart digital solutions. The app serves as an integrated platform for:
 🍽️ Discovering new recipes
